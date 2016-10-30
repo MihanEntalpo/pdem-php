@@ -1,4 +1,4 @@
-m/<?php
+<?php
 
 /**
  * Fully static class, to communicate with pdem daemon
