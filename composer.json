@@ -1,0 +1,21 @@
+{
+    "name": "mihanentalpo/pdem-php",
+    "type": "library",
+    "description": "php client for pdem server",
+    "keywords": ["client", "process", "daemonizer", "pdem"],
+    "authors": [
+        {
+            "name": "Mikhail Rubin",
+            "email": "mihanentalpo@yandex.ru",
+            "homepage": "https://mihanentalpo.me",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^5.3.5 || ^7.0"
+    },
+    "autoload": {
+        "files":[ "classPdem.php" ]
+    }
+}
